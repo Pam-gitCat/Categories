@@ -11,3 +11,6 @@
 
 ## NSString+Extensions
 对string是否为空的判断以及一些常用正则的判断
+
+## UIImage+Category
+压缩图片及给图片加水印
